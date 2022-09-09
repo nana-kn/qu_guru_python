@@ -1,1 +1,1 @@
-# Проект - qu_guru_python
+#Проект - qu_guru_python
